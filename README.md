@@ -25,4 +25,4 @@ The root MIT `LICENSE` applies only to software code owned by Rong Wang. It does
 
 ## Citation
 
-See `CITATION.cff`. Replace the GitHub placeholder URL before public release. Cite PANGAEA.996868 separately as the associated scientific data publication.
+See `CITATION.cff` for the software citation metadata. The code repository is https://github.com/rondywang-tech/subarctic-north-pacific-chronology. Cite PANGAEA.996868 separately as the associated scientific data publication.
