@@ -1,0 +1,26 @@
+{
+  "title": "Code for a harmonized radiocarbon chronology framework for subarctic North Pacific marine sediment cores",
+  "description": "Recovered code components supporting ESSD-2026-742. This code-only release is PARTIAL_NOT_END_TO_END_VALIDATED and excludes repository-restricted scientific data, verified formal inputs, and posterior draws.",
+  "creators": [
+    {
+      "name": "Wang, Rong"
+    }
+  ],
+  "keywords": [
+    "radiocarbon chronology",
+    "marine sediment cores",
+    "subarctic North Pacific",
+    "rbacon",
+    "Marine20",
+    "age-depth modelling"
+  ],
+  "version": "1.0",
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.1594/PANGAEA.996868",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
